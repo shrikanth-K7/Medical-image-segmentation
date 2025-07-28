@@ -1,0 +1,17 @@
+# Ignore datasets
+dataset/
+data/
+*.nii
+*.jpg
+*.png
+*.zip
+
+# Ignore model files
+*.h5
+*.ckpt
+
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
